@@ -37,6 +37,7 @@ For this question, i did a little research on the machine because i couldn’t f
 Go Buster result :
 
 ```
+
 /.hta (Status: 403)
 /.htaccess (Status: 403)
 /.htpasswd (Status: 403)
@@ -44,6 +45,7 @@ Go Buster result :
 /robots.txt (Status: 200)
 /server-status (Status: 403)
 /simple (Status: 301)
+
 ```
 
 After visiting almost every single one of them, i went to the “/simple” one and i found a CMS Made Simple Application inside!
@@ -82,11 +84,13 @@ You can check that guide to help you understand how “pip” works inside pytho
 [How to Install pip](https://www.poftut.com/how-to-install-pip-in-debian-ubuntu-kali/)
 
 ```
+
 #1- Be sure that you have pip installed.
 #2- After that be sure that you have installed the libraries that python script needs to run.
 #3- I didn’t had two of them. So i download these two :
 - pip install requests
 - pip install termcolor
+
 ```
 
 When you are done, you can start the script!
@@ -98,7 +102,9 @@ Answer : ```secret```
 As we know about which ports are open, in the previous scan i made with nmap, i also scanned for services so i know that at 2222 port we have an ssh. So with these kind of information we can SSH the machine :
 
 ```
+
 ssh {username_script_found}@{machine_ip} -p 2222
+
 ```
 
 Answer : ```ssh```
@@ -108,13 +114,17 @@ Answer : ```ssh```
 When you access the shell it’s time to see what is inside.
 
 ```
+
 ls -la
+
 ```
 
 You are going to notice a user.txt file.
 
 ```
+
 cat user.txt
+
 ```
 
 ![user.txt](/simplectf/usertxt.png)
@@ -126,7 +136,9 @@ Answer : ```G00d j0b, keep up!```
 Just go to a previous directory!
 
 ```
+
 cd ..
+
 ```
 
 Just do ls inside the directory you are inside now :
@@ -146,7 +158,9 @@ Well, now let’s see what can we do with “sudo” command.
 We see now that we can use vim directory to gain root access!
 
 ```
+
 sudo vim -c “:!/bin/sh”
+
 ```
 
 ![root](/simplectf/root.png)
@@ -158,13 +172,17 @@ Aaand did it! 😃
 That was a little bit easier than i though to be honest.
 
 ```
+
 cd /root/
+
 ```
 
 or you can simply:
 
 ```
+
 cat /root/root.txt
+
 ```
 
 Answer : ```W3ll d0n3. You made it!```
