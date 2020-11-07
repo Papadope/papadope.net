@@ -17,8 +17,16 @@ theme = "hello-friend-ng"
     post = "/"
     
 [[menu.main]]
+    identifier = "thm"
+    name = "THM"
+    url = "/thm/"
+
+[[menu.main]]
+    identifier = "htb"
+    name = "HTB"
+    url = "/htb/"
+
+[[menu.main]]
     identifier = "about"
-    name = "about hugo"
-    pre = "<i class='fa fa-heart'></i>"
+    name = "About"
     url = "/about/"
-    weight = -110
