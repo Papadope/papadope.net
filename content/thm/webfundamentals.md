@@ -2,11 +2,11 @@
 author:
   name: "papadope"
 date: 2020-06-23
-linktitle: RP Empire
+linktitle: Web Fundamentals
 type:
 - post
 - posts
-title: RP Empire
+title: Web Fundamentals
 weight: 10
 series:
 - Tryhackme
