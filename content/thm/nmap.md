@@ -12,7 +12,7 @@ series:
 - Tryhackme
 ---
 
-![Room Image](/nmap/nmap.png)
+![Room Image](/nmap/nmaproom.png)
 
 ## What is Nmap?
 
