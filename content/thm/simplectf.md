@@ -36,7 +36,11 @@ Answer : ``2``
 
 For this question, i did a little research on the machine because i couldn’t find anything with nmap tag “ — script”. So i started a gobuster search to find available url paths. I choose to save the gobuster’s output that’s why i have the “-o {file_name}” at the end of the command.
 
-```gobuster dir -w /usr/share/dirb/wordlists/common/txt -u http://{machine_ip} -t 20 -o gobusterscan.txt```
+```
+
+gobuster dir -w /usr/share/dirb/wordlists/common/txt -u http://{machine_ip} -t 20 -o gobusterscan.txt
+
+```
 
 Go Buster result :
 
@@ -69,13 +73,13 @@ I googled the specific Injections that i have found and i stuck with this one.
 
 [CMS Made Simple](https://www.exploit-db.com/exploits/46635)
 
-Answer : ```CVE-2019–9053```
+Answer : ``CVE-2019–9053``
 
 #### 4 — To what kind of vulnerability is the application vulnerable?
 
 After the hole research we have done up to this point we know that we are going to make SQL Injection.
 
-Answer : ```sqli```
+Answer : ``sqli``
 
 #### 5 — What’s the password?
 
@@ -99,7 +103,7 @@ You can check that guide to help you understand how “pip” works inside pytho
 
 When you are done, you can start the script!
 
-Answer : ```secret```
+Answer : ``secret``
 
 #### 6 — Where can you login with the details obtained?
 
@@ -111,7 +115,7 @@ ssh {username_script_found}@{machine_ip} -p 2222
 
 ```
 
-Answer : ```ssh```
+Answer : ``ssh``
 
 #### 7 — What’s the user flag?
 
@@ -133,7 +137,7 @@ cat user.txt
 
 ![user.txt](/simplectf/usertxt.png)
 
-Answer : ```G00d j0b, keep up!```
+Answer : ``G00d j0b, keep up!``
 
 #### 8 — Is there any other user in the home directory? What’s its name?
 
@@ -151,7 +155,7 @@ Just do ls inside the directory you are inside now :
 
 Done!
 
-Answer : ```sunbath```
+Answer : ``sunbath``
 
 #### 9 — What can you leverage to spawn a privileged shell?
 
@@ -189,7 +193,7 @@ cat /root/root.txt
 
 ```
 
-Answer : ```W3ll d0n3. You made it!```
+Answer : ``W3ll d0n3. You made it!``
 
 Thank you very much for reading.
 
