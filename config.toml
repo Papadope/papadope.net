@@ -1,16 +1,17 @@
 baseurl = "/"
-title = "Pentester's Escape"
+title = "papadope"
 theme = "hello-friend-ng"
 
 [Params]
-    mainSections = ["post"]
+    mainSections = ["/"]
     intro = true
-    headline = "Pentester's Escape"
+    headline = "Papadope"
     description = "WriteUps & Walkthroughs"
     github = "https://github.com/papadope"
     email = "xristos8170@gmail.com"
     opengraph = true
-    shareTwitter = true
+    shareTwitter = false
+    shareGithub = true
     dateFormat = "Mon, Jan 2, 2006"
 
 [Permalinks]
