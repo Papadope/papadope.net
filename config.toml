@@ -1,0 +1,17 @@
+baseurl = "/"
+title = "Pentester's Escape"
+theme = "hello-friend-ng"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "Pentester's Escape"
+    description = "WriteUps & Walkthroughs"
+    github = "https://github.com/papadope"
+    email = "xristos8170@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/"
