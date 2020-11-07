@@ -1,7 +1,7 @@
 ---
 author:
   name: "papadope"
-date: 2020-06-23
+date: 2020-07-01
 linktitle: Web Fundamentals
 type:
 - post
