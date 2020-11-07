@@ -24,9 +24,13 @@ This is a small room to be honest. It’s one of the smallest room that i have e
 
 To answer that question you need to start a scan with our beautiful tool called “nmap”. Usually i save the output of the nmap scan inside a file that’s why my command have the “-oN {file_name}” at the end.
 
-```nmap -sV -sS -T4 -p- -vv {machine_ip} -oN portscan.txt```
+```
 
-Answer : ```2```
+nmap -sV -sS -T4 -p- -vv {machine_ip} -oN portscan.txt
+
+```
+
+Answer : ``2``
 
 #### 2 — What is running on the higher port?
 
