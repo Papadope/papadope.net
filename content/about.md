@@ -9,17 +9,6 @@ My future goal is to become a certified penetration tester and help people who w
 
 I love the community that has been created over time in **TryHackMe** and it is one of the main reasons I am so passionate about it.
 
-### Skills
-|Pentesting|Sysadmin|Networking|Devops|Programming|
-|----------|--------|----------|------|-----------|
-| Enumeration | Linux | Cisco ASA | Ansible | Python |
-| PCAP analysis | Windows Server | Cisco routing | Docker | Shell scripting |
-| Privesc | Windows ADDS | Cisco switching | Kubernetes | Javascript |
-| Metasploit | Virtualization | pfSense | Vagrant | PHP |
-| C2 Frameworks | VMware vCenter | | Terraform |   |
-| Burp Suite | Citrix | | Digital Ocean |   |
-| Wireless | MacOS | | AWS |   |
-
 ### Certifications
 - [x] PeopleCert Education - _Software Developer Foundation Certificate_
 - [x] PeopleCert Education - _Software Developer Advanced Certificate_
