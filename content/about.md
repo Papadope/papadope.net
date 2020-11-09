@@ -16,13 +16,17 @@ I love the community that has been created over time in **TryHackMe** and it is 
 ### What I'm up to
 - eJPT
 - TryHackMe
-    - Box development after OSCP
 - Hack The Box
 
 ### CTF profiles
 **TryHackMe**
 <script src="https://tryhackme.com/badge/92316"></script>
+
+--
+
 🏆 = Rank 🚪 = Rooms Completed 🎯 = Badges Earned
+
+--
 
 **Hack The Box**
 <script src="https://www.hackthebox.eu/badge/248814"></script>
