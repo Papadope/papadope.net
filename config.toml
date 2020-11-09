@@ -127,9 +127,9 @@ disableHugoGeneratorInject = false
   #   name = "twitter"
   #   url  = "https://twitter.com/"
 
-  [[params.social]]
-    name = "email"
-    url  = "xristos8170@gmail.com"
+  # [[params.social]]
+  #   name = "discord"
+  #   url  = "xristos8170@gmail.com"
 
   [[params.social]]
     name = "github"
