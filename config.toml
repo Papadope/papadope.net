@@ -57,7 +57,7 @@ disableHugoGeneratorInject = false
   # 
   description = "WriteUps & Walkthroughs"
   keywords = ""
-  images = ["/site/yellow.png"]
+  images = ["/site/metaimg.png"]
 
   homeSubtitle = "WriteUps & Walkthroughs"
 
