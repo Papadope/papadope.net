@@ -5,7 +5,6 @@ date: 2020-06-23
 linktitle: RP Empire
 type:
 - post
-- posts
 title: RP Empire
 weight: 10
 series:

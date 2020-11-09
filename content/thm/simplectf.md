@@ -5,7 +5,6 @@ date: 2020-06-24
 linktitle: Simple CTF
 type:
 - post
-- posts
 title: Simple CTF
 weight: 10
 series:

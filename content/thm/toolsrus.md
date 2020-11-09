@@ -5,7 +5,6 @@ date: 2020-07-03
 linktitle: ToolsRus
 type:
 - post
-- posts
 title: ToolsRus
 weight: 10
 series:

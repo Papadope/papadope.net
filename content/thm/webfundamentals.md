@@ -5,7 +5,6 @@ date: 2020-07-01
 linktitle: Web Fundamentals
 type:
 - post
-- posts
 title: Web Fundamentals
 weight: 10
 series:
