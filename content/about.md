@@ -22,11 +22,16 @@ I love the community that has been created over time in **TryHackMe** and it is 
 **TryHackMe**
 <script src="https://tryhackme.com/badge/92316"></script>
 
---
+```
 
 🏆 = Rank 🚪 = Rooms Completed 🎯 = Badges Earned
 
---
+```
 
 **Hack The Box**
+
+```
+
 <script src="https://www.hackthebox.eu/badge/248814"></script>
+
+```
