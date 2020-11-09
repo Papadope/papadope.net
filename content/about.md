@@ -30,8 +30,4 @@ I love the community that has been created over time in **TryHackMe** and it is 
 
 **Hack The Box**
 
-```
-
-<script src="https://www.hackthebox.eu/badge/248814"></script>
-
-```
+![badge](/htb/248814.png)
