@@ -1,7 +1,7 @@
 ---
 author:
   name: "papadope"
-date: 2020-7-07
+date: 2020-07-07
 linktitle: Agent Sudo
 type:
 - post
