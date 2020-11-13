@@ -12,8 +12,13 @@ I love the community that has been created over time in **TryHackMe** and it is 
 ### Certifications
 - [x] PeopleCert Education - _Software Developer Foundation Certificate_
 - [x] PeopleCert Education - _Software Developer Advanced Certificate_
+- [ ] Practical Ethical Hacking - The Complete Course / TCM Security
+- [ ] Windows Privilege Escalation for Beginners / TCM Security
+- [ ] Linux Privilege Escalation for Beginners / TCM Security
 
 ### What I'm up to
+- National and Kapodistrian University of Athens
+    * Cybercrime & Cybersecurity E-Learning (On going)
 - eJPT
 - TryHackMe
 - Hack The Box
