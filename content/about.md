@@ -7,14 +7,17 @@ I'm interested in anything related to programming languages, cybersecurity, cybe
 
 My future goal is to become a certified penetration tester and help people who want to work in this field as much as I can.
 
-I love the community that has been created over time in **TryHackMe** and it is one of the main reasons I am so passionate about it.
+I love the community that has been created over time in **TryHackMe** and it is one of the main reasons I am so passionate about it. I love constantly learning new things and especially about things that have to do with technology.
+
+Do not hesitate to contact me, even for a hello. You can find my in **LinkedIn**, **Github** and in TryHackMe & HackTheBox **Discord**.
 
 ### Certifications
 - [x] PeopleCert Education - _Software Developer Foundation Certificate_
 - [x] PeopleCert Education - _Software Developer Advanced Certificate_
+- [x] Linux Privilege Escalation for Beginners / TCM Security
 - [ ] Practical Ethical Hacking - The Complete Course / TCM Security
 - [ ] Windows Privilege Escalation for Beginners / TCM Security
-- [ ] Linux Privilege Escalation for Beginners / TCM Security
+ 
 
 ### What I'm up to
 - National and Kapodistrian University of Athens
