@@ -31,9 +31,9 @@ We can see that it's powered by **Gila CMS**. I looked for it in google.
 
 What I found :
 
-- SQLi
-- LFI
-- XSS
+1. SQLi
+2. LFI
+3. XSS
 
 * None of them actually can provide me something that i could really use here, so I thought that I could continue the enumeration process.
 
