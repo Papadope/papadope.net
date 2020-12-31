@@ -11,4 +11,6 @@ I love the community that has been created over time in TryHackMe and it is one 
 
 Do not hesitate to contact me, even for a hello. You can find me in LinkedIn, Github and in TryHackMe & HackTheBox Discord Channels.
 
-![image](https://www.linkedin.com/in/papadope/)
+<a href="https://www.linkedin.com/in/papadope/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
