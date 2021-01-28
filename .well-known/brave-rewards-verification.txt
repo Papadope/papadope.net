@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: papadope.net
+Token: fd65432b68b2228ce2742b8a50ea7f61ade08d4edd3bea330a198800d1ca7df3
