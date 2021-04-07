@@ -33,6 +33,9 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
+# Relative URLS setting for IPFS
+relativeURLS=true
+
 [permalinks]
   posts = "/:year/:month/:title/"
 
