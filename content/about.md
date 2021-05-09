@@ -16,11 +16,14 @@ Do not hesitate to contact me, even for a hello. You can find me in **LinkedIn**
 - [x] PeopleCert Education - _Software Developer Advanced Certificate_
 - [x] Linux Privilege Escalation for OSCP & Beyond **Tib3rius**
 - [x] Linux Privilege Escalation for Beginners / TCM Security
-- [ ] Practical Ethical Hacking - The Complete Course / TCM Security
-- [ ] Windows Privilege Escalation for Beginners / TCM Security
+- [x] Practical Ethical Hacking - The Complete Course / TCM Security
+- [x] Windows Privilege Escalation for Beginners / TCM Security
+- [x] National & Kapodistrian University of Athens, Cybercrime & Cybersecurity
+- [ ] eJPT - eLearnSecurity
 
 ### TryHackMe Certs
 - [x] Attacking Windows Active Directory (Throwback)
+- [x] Network Pivoting THM (Wreath)
 
 ### Badges
 - [x] Introduction Badge **PentesterLab**
@@ -29,12 +32,9 @@ Do not hesitate to contact me, even for a hello. You can find me in **LinkedIn**
 - [x] PCAP Badge **PentesterLab**
 
 ### What I'm up to
-- National and Kapodistrian University of Athens
-    * Cybercrime & Cybersecurity E-Learning (On going)
-- PentesterLab
-- eJPT
 - TryHackMe
 - Hack The Box
+- CTF's
 
 ### CTF profiles
 **TryHackMe**
