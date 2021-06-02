@@ -11,7 +11,9 @@ I love the community that has been created over time in TryHackMe and it is one 
 
 Do not hesitate to contact me, even for a hello. You can find me in LinkedIn, Github and in TryHackMe & HackTheBox Discord Channels.
 
-**Contributor of reverse-shell-generator by Ryan aka <a href="https://github.com/0dayCTF/">0day</a> & Chris aka <a href="https://github.com/briskets">Briskets</a>. You can visit the website <a href="https://www.revshells.com/">here</a>**
+## Contributor of reverse-shell-generator by Ryan aka <a href="https://github.com/0dayCTF/">0day</a> & Chris aka <a href="https://github.com/briskets">Briskets</a>. 
+
+## You can visit the website <a href="https://www.revshells.com/">here</a>
 
 <a href="https://www.linkedin.com/in/papadope/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
