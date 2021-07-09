@@ -19,7 +19,7 @@ Do not hesitate to contact me, even for a hello. You can find me in **LinkedIn**
 - [x] Practical Ethical Hacking - The Complete Course / TCM Security
 - [x] Windows Privilege Escalation for Beginners / TCM Security
 - [x] National & Kapodistrian University of Athens, Cybercrime & Cybersecurity
-- [ ] eJPT - eLearnSecurity
+- [x] eJPT - eLearnSecurity
 - [ ] CompTIA - Network+
 - [ ] CompTIA - Security+
 - [ ] CompTIA - PenTest+
