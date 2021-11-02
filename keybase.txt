@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/papadope
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://papadope.net
+  * I am papadope (https://keybase.io/papadope) on keybase.
+  * I have a public key ASA9EcKUzrNfm7b-HUMucap4eYBVuOqILEKkDVo5nYDrsQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203d11c294ceb35f9bb6fe1d432e71aa78798055b8ea882c42a40d5a399d80ebb10a",
+      "host": "keybase.io",
+      "kid": "01203d11c294ceb35f9bb6fe1d432e71aa78798055b8ea882c42a40d5a399d80ebb10a",
+      "uid": "6e36f81cf26f655096cb77a4d5297319",
+      "username": "papadope"
+    },
+    "merkle_root": {
+      "ctime": 1635870549,
+      "hash": "5f645c07c78203f3cdf7eb47ef9e71e80919c7f2ffde85cc193473536e73ed68f447b08dda3b37b9e47c74bbca3ddd4b712d68cfb1d121d05be40bb0405812a6",
+      "hash_meta": "e054cd55662453bd41185c47e32b6ccf8098666dafe86e8d8951208ff6669444",
+      "seqno": 21121081
+    },
+    "service": {
+      "entropy": "bGgh5tMJI1nUTNriR+lAP/cs",
+      "hostname": "papadope.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1635870589,
+  "expire_in": 504576000,
+  "prev": "e161a66f51fe5646e9768ee5a2b48214ac35956d6a222f2e72faab30f3ccfa12",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPRHClM6zX5u2/h1DLnGqeHmAVbjqiCxCpA1aOZ2A67EKp3BheWxvYWTESpcCDMQg4WGmb1H+Vkbpdo7lorSCFKw1lW1qIi8ucvqrMPPM+hLEID1ys2DQx8uN0gZ6r7WRS/zOXPnf6CMFnigjwvJEGj9FAgHCo3NpZ8RAMpP7azQt9Bn/0OjLZpKNw+IcqDKwPC14iVXGNcS4CYSIQvnvrE36JYvFBFfqa3fv4c2OshnprEMZM4NocItAAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIImzkhTVjUWhNs9LOQuBFfPUGWnl8kwRUSw75PeBVcWmo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/papadope
+
+==================================================================
