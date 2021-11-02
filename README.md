@@ -11,6 +11,10 @@ I love the community that has been created over time in TryHackMe and it is one 
 
 Do not hesitate to contact me, even for a hello. You can find me in LinkedIn, Github and in TryHackMe & HackTheBox Discord Channels.
 
+Now on KeyBase
+
+[![Keybase PGP]https://img.shields.io/badge/pgp%20-75D1C1A34A120BC9-blue?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/papadope)
+
 ## Contributor of reverse-shell-generator by Ryan aka <a href="https://github.com/0dayCTF/">0day</a> & Chris aka <a href="https://github.com/briskets">Briskets</a>. 
 
 ## You can visit the website <a href="https://www.revshells.com/">here</a>
