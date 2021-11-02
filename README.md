@@ -11,7 +11,7 @@ I love the community that has been created over time in TryHackMe and it is one 
 
 Do not hesitate to contact me, even for a hello. You can find me in LinkedIn, Github and in TryHackMe & HackTheBox Discord Channels.
 
-Now on KeyBase
+Now on KeyBase:
 
 [![Keybase PGP](https://img.shields.io/badge/pgp%20-75D1C1A34A120BC9-blue?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/papadope)
 
