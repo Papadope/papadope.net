@@ -17,7 +17,7 @@ Now on KeyBase:
 
 Buy me a coffee:
 
-<a href="https://www.buymeacoffee.com/papadopejk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="44" width="140"></a>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/papadopejk)
 
 ## Contributor of reverse-shell-generator by Ryan aka <a href="https://github.com/0dayCTF/">0day</a> & Chris aka <a href="https://github.com/briskets">Briskets</a>. 
 
