@@ -27,4 +27,4 @@ Now on KeyBase:
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="https://www.buymeacoffee.com/papadopejk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="34" width="120"></a>
+<a href="https://www.buymeacoffee.com/papadopejk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="44" width="140"></a>
