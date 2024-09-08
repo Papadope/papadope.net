@@ -19,8 +19,6 @@ Buy me a coffee:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/papadopejk)
 
-## Contributor of reverse-shell-generator by Ryan aka <a href="https://github.com/0dayCTF/">0day</a> & Chris aka <a href="https://github.com/briskets">Briskets</a>. 
-
 ## You can visit the website <a href="https://www.revshells.com/">here</a>
 
 <a href="https://www.linkedin.com/in/papadope/">
